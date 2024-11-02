@@ -10,7 +10,10 @@ To run the VM compile lc3.c
 run the following command
 
     ./lc3-vm path/to/objFile
-Provide the path to you LC# application object file
+Provide the path to your pre assembled LC3 application object file.
+use this tool to assemble your .asm file
+
+[LC3-tool](https://wchargin.com/lc3web/)
 
 ## Sample Applications
 

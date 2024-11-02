@@ -14,7 +14,7 @@ Provide the path to you LC# application object file
 
 ## Sample Applications
 
-Here are some sample applications for LC#
+Here are some sample applications for LC3
 - [Rogue](https://www.jmeiners.com/lc3-vm/supplies/rogue.obj)
 - [2048](https://www.jmeiners.com/lc3-vm/supplies/2048.obj)
 

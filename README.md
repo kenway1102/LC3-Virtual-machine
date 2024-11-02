@@ -20,5 +20,5 @@ Here are some sample applications for LC3
 
 ## Acknowledgments
 
-  - Project inspired by [justin meiners] (https://github.com/justinmeiners) VM LC3
-  - [LC3 - ISA] (https://www.jmeiners.com/lc3-vm/supplies/lc3-isa.pdf)
+  - Project inspired by [justin meiners](https://github.com/justinmeiners) VM LC3
+  - [LC3 - ISA](https://www.jmeiners.com/lc3-vm/supplies/lc3-isa.pdf)
